@@ -1,0 +1,21 @@
+,Abb,Antibiotic,drug_class,entero_natural,ecoli_natural
+0,AMP,Ampicillin,Penicillins,0,1
+1,AUG2,Augmentin,Penicillins,0,1
+2,AXO,Ceftriaxone,Cephalosporins,1,0
+3,CHL,Chloramphenicol,Amphenicols,0,0
+4,CIP,Ciprofloxacin,Fluoroquinolones,1,0
+5,ERY,Erythromycin,Macrolides,0,0
+6,FOX,Cefoxitin,Cephalosporins,1,0
+7,GEN,Gentamicin,Aminoglycosides,1,0
+8,KAN,Kanamycin,Aminoglycosides,1,0
+9,LIN,Lincomycin,Lincosamides,1,1
+10,LZD,Linezolid,Oxazolidinones,0,1
+11,NIT,Nitrofurantoin,Nitrofuran antibacterial,0,0
+12,Nal,Nalidixic acid,Quinolones,0,0
+13,STR,Streptomycin,Aminoglycosides,1,0
+14,SXT,Trimethoprim-sulphamethoxazole,Folate pathway antagonist,1,0
+15,SYN,Ribaxamase,Penicillins,0,1
+16,TET,Tetracycline,Tetracyclines,0,0
+17,TYLT,Tylosin tartrate,Macrolides,0,0
+18,VAN,Vancomycin,Glycopeptides,0,1
+19,XNL,Ceftiofur,Cephalosporins,1,0
